@@ -3,11 +3,6 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzdodTBzZWp6cWJyaGo0cWNyY3FsOHpyd3Y0dXUwcHM2MXJnazJ6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UIN7Andwh7kDZGUvmt/giphy.gif" width="300"/>
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-
-
 <!--
 **Abdykadyrov-S/Abdykadyrov-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
