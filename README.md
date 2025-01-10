@@ -19,9 +19,6 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br>
   My nickname is Abdykadyrov-S and ...<br>
-</h1>
-</div>
-
-<div id="header" align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjNpeWV2djdpZmpmM3lzNW05N2Fwcm5sdmNrMHl4enM1dzF0NGMzMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UIN7Andwh7kDZGUvmt/giphy.gif" width="100"/>
+</h1>
 </div>
